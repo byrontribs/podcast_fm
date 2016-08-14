@@ -83,8 +83,9 @@ body {
       margin: 0;
       li {
         display: inline;
-        margin-left: 2.5rem;
+        // margin-left: 2.5rem;
         a {
+          // margin-left: 2.5rem;
           color: $dark;
           text-decoration: none;
         }
@@ -177,7 +178,7 @@ textarea {
 #form {
   padding: 0 0 5rem 0;
 }
-//
+
 @import "normalize.css.scss";
 @import "welcome.css.scss";
 // @import "podcasts.scss";
